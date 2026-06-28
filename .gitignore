@@ -10,3 +10,6 @@ __pycache__/
 
 #ngrok
 *.log
+
+#VSCode
+.vscode/
