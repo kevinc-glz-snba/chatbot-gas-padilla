@@ -1,0 +1,12 @@
+#Variables de entorno
+.env
+
+#Entorno virtual
+__pycache__/
+*.__pycache__
+
+#Base de datos local
+*.db
+
+#ngrok
+*.log
