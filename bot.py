@@ -72,7 +72,7 @@ def procesar_mensaje(telefono:str, mensaje:str) -> str:
 
             Horario de servicio: Lunes a Sábado de 7:30am a 5:00pm
             Zonas que cubre: Acambay y colonias aledañas, Atlacomulco, Jocotitlán y Aculco Centro.
-            Números de contacto: 7121133047, 7121335399
+            Números de contacto: 752XXXXXXX, 723XXXXXXX
 
             Precios actuales: {precios}
 
