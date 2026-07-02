@@ -126,6 +126,12 @@ El bot actualizará automáticamente los precios de todos los tanques y confirma
 - **Prompt Engineering avanzado:** Cómo construir system prompts que den contexto, personalidad y reglas de negocio a un agente de IA
 
 ---
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/dc618bfd-0eb7-49cb-8572-820e13d57199" />
+
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/424afe7b-dbb8-456f-b0fb-5293a10213d6" />
+
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5e59c045-8451-4aed-8d02-396749200654" />
+---
 
 ## 👨‍💻 Autor
 
